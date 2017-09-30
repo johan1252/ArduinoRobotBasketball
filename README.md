@@ -11,6 +11,7 @@ Servo arm with forcer sensor was used to allow the robot to identify when a ball
 Bumper touch sensor was used to indicate to the robot whenever the basketball net was located.
 
 Map of court below:
+
 ![alt text](https://github.com/johan1252/ArduinoRobotBasketball/blob/master/299_court.png?raw=true)
 
 <pre>
